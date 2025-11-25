@@ -76,7 +76,7 @@ int main() {
 
                 if(flag){
                     //..Process can run safely
-                    for(int r=0;resources;r++){
+                    for(int r=0;r < resources;r++){
                         work[r] += allocation[p][r];
                     }
 
