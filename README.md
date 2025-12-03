@@ -9,19 +9,19 @@
 Deadlock occurs in a system when multiple processes are waiting indefinitely for resources held by each other.
 This toolkit helps analays system status using the **Banker's Safety Algorithm**, and determines:
 
--> Whether the system is in a **Safe State**
--> A valid **Safe Sequence** (if it exists)
--> Or if a **Deadlock is Detected**
+- Whether the system is in a **Safe State**
+- A valid **Safe Sequence** (if it exists)
+- Or if a **Deadlock is Detected**
 
 The program takes:
--> Allocation Matrix
--> Maximum Need Matrix
--> Available Resources
+- Allocation Matrix
+- Maximum Need Matrix
+- Available Resources
 
 And calculates:
--> Need Matrix
--> Work Vector
--> Safe Sequence
+- Need Matrix
+- Work Vector
+- Safe Sequence
 
 ---
 
@@ -31,8 +31,8 @@ And calculates:
 ✔ Automatic NEED matrix calculation  
 ✔ Implementation of Banker's Safety Algorithm
 ✔ Detection of:
- -> Safe State
- -> Deadlock State
+ - Safe State
+ - Deadlock State
 ✔ Clear formatted output
 ✔ Handles any number of processes and resources
 
@@ -40,10 +40,10 @@ And calculates:
 
 ## 🛠 Technologies Used
 
--> **C++**
--> **Vectors (STL)**
--> **Dynamic Matrix Handling**
--> **Git & GitHub (Version Control)**
+- **C++**
+- **Vectors (STL)**
+- **Dynamic Matrix Handling**
+- **Git & GitHub (Version Control)**
 
 ---
 
@@ -52,5 +52,6 @@ And calculates:
 ### **1. Clone the repository**
 
 ```bash
-git clone https"//github.com/inshu5757/deadlock-detection-toolkit.git
+git clone https://github.com/inshu5757/deadlock-detection-toolkit.git
+
 
