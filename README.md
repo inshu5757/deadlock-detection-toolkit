@@ -47,11 +47,21 @@ And calculates:
 
 ---
 
+## 🖼 Flowchart (Banker's Algorithm)
+
+This flowchart represents the overall process of the Banker's Safety Algorithm used in this project.
+
+![Flowchart](docs/flowchart.png)
+
+---
+
+
 ## 📥 How to Run
 
 ### **1. Clone the repository**
 
 ```bash
 git clone https://github.com/inshu5757/deadlock-detection-toolkit.git
+
 
 
