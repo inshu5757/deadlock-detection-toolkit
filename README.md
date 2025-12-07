@@ -55,6 +55,24 @@ This flowchart represents the overall process of the Banker's Safety Algorithm u
 
 ---
 
+## 🖥 Output Screenshots
+
+Below are the results of running the Deadlock Detection Toolkit:
+
+### ✔ Safe State Example
+![Safe Output](screens/output1.png)
+
+### ✔ Another Safe Example
+![Safe Output 2](screens/output2.png)
+
+### 🔴 Deadlock Example
+![Deadlock Output](screens/output3.png)
+
+### 🔄 Additional Run
+![Run 4](screens/output4.png)
+
+---
+
 
 ## 📥 How to Run
 
@@ -62,6 +80,7 @@ This flowchart represents the overall process of the Banker's Safety Algorithm u
 
 ```bash
 git clone https://github.com/inshu5757/deadlock-detection-toolkit.git
+
 
 
 
